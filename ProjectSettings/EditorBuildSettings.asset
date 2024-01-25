@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Basic_Face_Filter.unity
     guid: 4016ac15e24f9d749a602187697b6942
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARTemplateScene.unity
     guid: 08f6427b498780949918bb86d083afea
   m_configObjects:
