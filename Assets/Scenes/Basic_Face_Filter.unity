@@ -409,10 +409,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1552791028833325561, guid: a98f6b8d8e778af4a9451f28f4929826,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4951155625771336754, guid: a98f6b8d8e778af4a9451f28f4929826,
         type: 3}
       propertyPath: m_Name
       value: AR Default Face
+      objectReference: {fileID: 0}
+    - target: {fileID: 6520804249395292938, guid: a98f6b8d8e778af4a9451f28f4929826,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7943418863529244836, guid: a98f6b8d8e778af4a9451f28f4929826,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9118084903071209405, guid: a98f6b8d8e778af4a9451f28f4929826,
         type: 3}
