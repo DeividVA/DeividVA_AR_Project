@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Basic_Face_Filter.unity
     guid: 4016ac15e24f9d749a602187697b6942
   - enabled: 0
     path: Assets/Scenes/ARTemplateScene.unity
     guid: 08f6427b498780949918bb86d083afea
+  - enabled: 1
+    path: Assets/Scenes/Interactive_Face_Filter.unity
+    guid: f4dc2643dc45a5648b2c59e5bc19830d
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
