@@ -1071,6 +1071,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GlassesGroup
       objectReference: {fileID: 0}
+    - target: {fileID: 90318931380806110, guid: 2f33c9551a93c474898b400c08f32eae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6042337704961876625, guid: 2f33c9551a93c474898b400c08f32eae,
         type: 3}
       propertyPath: m_RootOrder
